@@ -7,10 +7,13 @@ Nessa projeto, falo sobre Drug Discovery e trato de uma base de dados sobre o as
 Também faço algumas analises simples da base de dados e também mostro um pouco sobre 2 formas de Machine Learning, sua aplicação e os problemas que o resultado delas nos traz.
 
 Links que usei para o projeto:
-https://www.lucidchart.com/pages/pt/o-que-e-arvore-de-decisao
-https://en.wikipedia.org/wiki/Overfitting
-https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit
-https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view
+ - [O que é uma árvore de decisão](https://www.lucidchart.com/pages/pt/o-que-e-arvore-de-decisao)
+
+ - [O que é Overfitting](https://en.wikipedia.org/wiki/Overfitting)
+
+ - [O que é Overfitting](https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit
+
+ - [Expressão gênica: o caminho da informação biológica](https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view)
 
 Inspirações:
 - [Daiane Klein](https://colab.research.google.com/drive/1EwueEMQC_vLXf_oxN3w60itrvsHjrw8B?usp=sharing)
