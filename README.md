@@ -1,4 +1,4 @@
-![Imagem](https://drive.google.com/file/d/1oIUUJ0opQEQF2wbqzIsTfiW88Kxh4K3-/view?usp=sharing)
+![Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f9/Drug_discovery_cycle_2.png)
 
 # Desafio Final Imersão Dados
 
