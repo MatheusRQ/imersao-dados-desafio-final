@@ -1,5 +1,12 @@
-
 # Desafio Final Imersão Dados
+
+Boa tarde, me chamo Matheus e esse é o meu projeto para a Imersão Dados Allura terceira edição.
+
+Nessa pesquisa falo sobre Drug Discovery e trato de uma base de dados sobre o assunto vindo de um desafio de Harvard.
+
+Nesse projeto, faço algumas analises simples da base de dados e também mostro um pouco sobre 2 formas de Machine Learning, sua aplicação e os problemas que o resultado delas nos traz.
+
+
 
 **Olá Cientistas!**
 
