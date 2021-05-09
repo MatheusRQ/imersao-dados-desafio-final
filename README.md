@@ -2,10 +2,22 @@
 
 Boa tarde, me chamo Matheus e esse é o meu projeto para a Imersão Dados Allura terceira edição.
 
-Nessa pesquisa falo sobre Drug Discovery e trato de uma base de dados sobre o assunto vindo de um desafio de Harvard.
+Nessa projeto, falo sobre Drug Discovery e trato de uma base de dados sobre o assunto vindo de um desafio de Harvard.
 
-Nesse projeto, faço algumas analises simples da base de dados e também mostro um pouco sobre 2 formas de Machine Learning, sua aplicação e os problemas que o resultado delas nos traz.
+Também faço algumas analises simples da base de dados e também mostro um pouco sobre 2 formas de Machine Learning, sua aplicação e os problemas que o resultado delas nos traz.
 
+Links que usei para o projeto:
+https://www.lucidchart.com/pages/pt/o-que-e-arvore-de-decisao
+https://en.wikipedia.org/wiki/Overfitting
+https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit
+https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view
+
+Inspirações:
+- [Daiane Klein](https://colab.research.google.com/drive/1EwueEMQC_vLXf_oxN3w60itrvsHjrw8B?usp=sharing)
+
+- [Conrado Bittencourt](https://colab.research.google.com/drive/1QCRMnF-9cFRuOO_PrWpzj-UAclQuIomB?usp=sharing)
+
+- [Matheus Leite Llorente](https://colab.research.google.com/drive/1eca1wG-pkGT0IiPv4-vcpjur3tJjj-6e?usp=sharing)
 
 
 **Olá Cientistas!**
